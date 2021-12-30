@@ -1,0 +1,14 @@
+C:\Users\Катя\source\repos\LR5\LR5\bin\Debug\netcoreapp3.1\LR5.exe
+C:\Users\Катя\source\repos\LR5\LR5\bin\Debug\netcoreapp3.1\LR5.deps.json
+C:\Users\Катя\source\repos\LR5\LR5\bin\Debug\netcoreapp3.1\LR5.runtimeconfig.json
+C:\Users\Катя\source\repos\LR5\LR5\bin\Debug\netcoreapp3.1\LR5.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\LR5\LR5\bin\Debug\netcoreapp3.1\LR5.dll
+C:\Users\Катя\source\repos\LR5\LR5\bin\Debug\netcoreapp3.1\LR5.pdb
+C:\Users\Катя\source\repos\LR5\LR5\obj\Debug\netcoreapp3.1\LR5.csproj.AssemblyReference.cache
+C:\Users\Катя\source\repos\LR5\LR5\obj\Debug\netcoreapp3.1\LR5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катя\source\repos\LR5\LR5\obj\Debug\netcoreapp3.1\LR5.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\LR5\LR5\obj\Debug\netcoreapp3.1\LR5.AssemblyInfo.cs
+C:\Users\Катя\source\repos\LR5\LR5\obj\Debug\netcoreapp3.1\LR5.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\LR5\LR5\obj\Debug\netcoreapp3.1\LR5.dll
+C:\Users\Катя\source\repos\LR5\LR5\obj\Debug\netcoreapp3.1\LR5.pdb
+C:\Users\Катя\source\repos\LR5\LR5\obj\Debug\netcoreapp3.1\LR5.genruntimeconfig.cache

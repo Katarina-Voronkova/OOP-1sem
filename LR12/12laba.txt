@@ -1,0 +1,25 @@
+Имя сборки: LR12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Есть ли публичные конструкторы: да
+
+Публичные методы: 
+get_Name
+set_Name
+get_Kurs
+AverageScore
+Min
+Max
+Write
+CounterWrite
+ToString
+GetHashCode
+Equals
+GetType
+
+
+Поля:
+Name_Game
+HP
+Свойства:  нет
+Реализованные интерфейсы: нет
+Методы с типом параметра String:
+set_Name

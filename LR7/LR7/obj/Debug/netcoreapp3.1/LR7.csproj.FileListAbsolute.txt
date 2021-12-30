@@ -1,0 +1,14 @@
+C:\Users\Катя\source\repos\LR7\LR7\bin\Debug\netcoreapp3.1\LR7.exe
+C:\Users\Катя\source\repos\LR7\LR7\bin\Debug\netcoreapp3.1\LR7.deps.json
+C:\Users\Катя\source\repos\LR7\LR7\bin\Debug\netcoreapp3.1\LR7.runtimeconfig.json
+C:\Users\Катя\source\repos\LR7\LR7\bin\Debug\netcoreapp3.1\LR7.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\LR7\LR7\bin\Debug\netcoreapp3.1\LR7.dll
+C:\Users\Катя\source\repos\LR7\LR7\bin\Debug\netcoreapp3.1\LR7.pdb
+C:\Users\Катя\source\repos\LR7\LR7\obj\Debug\netcoreapp3.1\LR7.csproj.AssemblyReference.cache
+C:\Users\Катя\source\repos\LR7\LR7\obj\Debug\netcoreapp3.1\LR7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катя\source\repos\LR7\LR7\obj\Debug\netcoreapp3.1\LR7.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\LR7\LR7\obj\Debug\netcoreapp3.1\LR7.AssemblyInfo.cs
+C:\Users\Катя\source\repos\LR7\LR7\obj\Debug\netcoreapp3.1\LR7.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\LR7\LR7\obj\Debug\netcoreapp3.1\LR7.dll
+C:\Users\Катя\source\repos\LR7\LR7\obj\Debug\netcoreapp3.1\LR7.pdb
+C:\Users\Катя\source\repos\LR7\LR7\obj\Debug\netcoreapp3.1\LR7.genruntimeconfig.cache

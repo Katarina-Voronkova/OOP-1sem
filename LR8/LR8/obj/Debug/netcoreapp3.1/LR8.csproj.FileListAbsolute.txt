@@ -1,0 +1,14 @@
+C:\Users\Катя\source\repos\LR8\LR8\bin\Debug\netcoreapp3.1\LR8.exe
+C:\Users\Катя\source\repos\LR8\LR8\bin\Debug\netcoreapp3.1\LR8.deps.json
+C:\Users\Катя\source\repos\LR8\LR8\bin\Debug\netcoreapp3.1\LR8.runtimeconfig.json
+C:\Users\Катя\source\repos\LR8\LR8\bin\Debug\netcoreapp3.1\LR8.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\LR8\LR8\bin\Debug\netcoreapp3.1\LR8.dll
+C:\Users\Катя\source\repos\LR8\LR8\bin\Debug\netcoreapp3.1\LR8.pdb
+C:\Users\Катя\source\repos\LR8\LR8\obj\Debug\netcoreapp3.1\LR8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катя\source\repos\LR8\LR8\obj\Debug\netcoreapp3.1\LR8.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\LR8\LR8\obj\Debug\netcoreapp3.1\LR8.AssemblyInfo.cs
+C:\Users\Катя\source\repos\LR8\LR8\obj\Debug\netcoreapp3.1\LR8.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\LR8\LR8\obj\Debug\netcoreapp3.1\LR8.dll
+C:\Users\Катя\source\repos\LR8\LR8\obj\Debug\netcoreapp3.1\LR8.pdb
+C:\Users\Катя\source\repos\LR8\LR8\obj\Debug\netcoreapp3.1\LR8.genruntimeconfig.cache
+C:\Users\Катя\source\repos\LR8\LR8\obj\Debug\netcoreapp3.1\LR8.csproj.AssemblyReference.cache

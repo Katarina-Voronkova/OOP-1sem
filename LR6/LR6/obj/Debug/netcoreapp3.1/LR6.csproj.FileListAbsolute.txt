@@ -1,0 +1,5 @@
+C:\Users\Катя\source\repos\LR6\LR6\obj\Debug\netcoreapp3.1\LR6.csproj.AssemblyReference.cache
+C:\Users\Катя\source\repos\LR6\LR6\obj\Debug\netcoreapp3.1\LR6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катя\source\repos\LR6\LR6\obj\Debug\netcoreapp3.1\LR6.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\LR6\LR6\obj\Debug\netcoreapp3.1\LR6.AssemblyInfo.cs
+C:\Users\Катя\source\repos\LR6\LR6\obj\Debug\netcoreapp3.1\LR6.csproj.CoreCompileInputs.cache
